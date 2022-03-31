@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movs1", "Movs1\Movs1.csproj", "{00D76631-CB14-4D96-80F3-A88A6BBAF429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D76631-CB14-4D96-80F3-A88A6BBAF429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D76631-CB14-4D96-80F3-A88A6BBAF429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D76631-CB14-4D96-80F3-A88A6BBAF429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D76631-CB14-4D96-80F3-A88A6BBAF429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F8477D-30BC-468E-BC42-2558762022D3}
+	EndGlobalSection
+EndGlobal
